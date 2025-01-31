@@ -69,9 +69,9 @@ jobs:
           plugin_people_shuffle: yes
           plugin_people_size: 28
           plugin_people_types: followers, following
-          plugin_rss: yes
-          plugin_rss_limit: 5
-          plugin_rss_source: https://public.websites.umich.edu/~jihenghu/space/atom.xml
+          # plugin_rss: yes
+          # plugin_rss_limit: 5
+          # plugin_rss_source: https://public.websites.umich.edu/~jihenghu/space/atom.xml
 
   keepalive-job:
     name: Keepalive Workflow
